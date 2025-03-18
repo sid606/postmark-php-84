@@ -5,12 +5,12 @@
       "url": "https://github.com/sid606/postmark-php-84"
     }
   ],
-  "name": "wildbit/postmark-php",
+  "name": "sid606/postmark-php-84",
   "license": "MIT",
   "type": "project",
   "minimum-stability": "dev",
   "prefer-stable": true,
-  "description": "The officially supported client for Postmark (http://postmarkapp.com)",
+  "description": "The officially fork supported client for Postmark (http://postmarkapp.com)",
   "require": {
     "php": "~8.1 || ~8.2|| ~8.3|| ~8.4",
     "guzzlehttp/guzzle": "^7.8",
